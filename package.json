@@ -1,0 +1,23 @@
+{
+  "name": "cloudinary-publicid-poc",
+  "version": "1.0.0",
+  "description": "cloudinary-publicid-poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voislav-it-labs/cloudinary-publicid-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voislav-it-labs/cloudinary-publicid-poc/issues"
+  },
+  "homepage": "https://github.com/voislav-it-labs/cloudinary-publicid-poc#readme",
+  "dependencies": {
+    "cloudinary": "^1.11.0"
+  }
+}
